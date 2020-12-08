@@ -1,1 +1,1 @@
-travis-web
+[![Build Status](https://travis-ci.com/seraetzer/unittests.svg?branch=master)](https://travis-ci.com/seraetzer/unittests)
